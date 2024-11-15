@@ -1,3 +1,3 @@
 This is a demo repo to learn git .
 <br>
-Author - Ansh 
+Author - Ansh Srivastava
